@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @VincentProuchet
 - 👀 I’m interested in web technologies
-- 🌱 I’m currently working on learning how to use Symfony because I need it to create a portofolio
-- Mainly because I can afford to pay for hosting service and the only free one I have to use an outdated Php
+- 🌱 I’m currently working on making a project a little more readable since it was made in less than two days for a hackathon
 - 💞️ I’m looking to collaborate on nothing for now, but I would appreciate and consider any proposal
 - 📫 How to reach me well you can use github for now.
 
